@@ -1,0 +1,2 @@
+# Tesla_Company_Analysis_Project
+An in-depth analysis of TESLA motors was done taking in a lot of factors considering top market competitors, analysing Balance sheet,Profit and loss statement, comparing deliveries of competitors as well as the companies offerings such as model 3, model y. Calculated Gross profits of each model, cost of sales, comparing operational expenses of the competitors as well as teslas opex , and also calculated WACC and performed DCF 
